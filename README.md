@@ -10,8 +10,14 @@ yarn dev
 pnpm dev
 # or
 bun dev
-
 ```
+
+## 🛢️ Initialize the database
+
+```bash
+node initdb.js
+```
+
 
 ## 📸 App Screenshots
 
