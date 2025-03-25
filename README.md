@@ -1,8 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## 🚀 Getting Started
 
-## Getting Started
-
-First, run the development server:
+To start the development server, run one of the following commands:
 
 ```bash
 npm run dev
@@ -12,25 +10,31 @@ yarn dev
 pnpm dev
 # or
 bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📸 App Screenshots
 
-## Learn More
+| Home Page | 
+| --- | 
+| ![Home Page](assets/app_screenshoot/home_page.png) | 
 
-To learn more about Next.js, take a look at the following resources:
+| Meals Page | 
+| --- | 
+| ![Meals Page](assets/app_screenshoot/meals_page.png) | 
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+| Meals Page | 
+| --- | 
+| ![Meals Page](assets/app_screenshoot/meals_page_2.png) | 
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+| Meal Detail Page | 
+| --- | 
+| ![Meal Detail Page](assets/app_screenshoot/meal_detail_page.png) | 
 
-## Deploy on Vercel
+| Add Meal Page | 
+| --- | 
+| ![Add Meal Page](assets/app_screenshoot/add_meal_page.png) | 
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+| Community Page | 
+| --- | 
+| ![Community Page](assets/app_screenshoot/community_page.png) | 
