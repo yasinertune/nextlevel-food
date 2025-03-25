@@ -11,29 +11,30 @@ pnpm dev
 # or
 bun dev
 
+```
 
 ## 📸 App Screenshots
 
 | Home Page | 
 | --- | 
-| ![Home Page](screenshoot/home_page.png) | 
+| ![Home Page](assets/app_screenshoot/home_page.png) | 
 
 | Meals Page | 
 | --- | 
-| ![Meals Page](screenshoot/meals_page.png) | 
+| ![Meals Page](assets/app_screenshoot/meals_page.png) | 
 
 | Meals Page | 
 | --- | 
-| ![Meals Page](screenshoot/meals_page_2.png) | 
+| ![Meals Page](assets/app_screenshoot/meals_page_2.png) | 
 
 | Meal Detail Page | 
 | --- | 
-| ![Meal Detail Page](screenshoot/meal_detail_page.png) | 
+| ![Meal Detail Page](assets/app_screenshoot/meal_detail_page.png) | 
 
 | Add Meal Page | 
 | --- | 
-| ![Add Meal Page](screenshoot/add_meal_page.png) | 
+| ![Add Meal Page](assets/app_screenshoot/add_meal_page.png) | 
 
 | Community Page | 
 | --- | 
-| ![Community Page](screenshoot/community_page.png) | 
+| ![Community Page](assets/app_screenshoot/community_page.png) | 
