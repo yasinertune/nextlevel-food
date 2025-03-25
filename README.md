@@ -31,7 +31,7 @@ node initdb.js
 
 | Meals Page | 
 | --- | 
-| ![Meals Page](assets/app_screenshoot/meals_page_2.png) | 
+| ![Meals Page](assets/app_screenshoot/meals_page_2.jpg) | 
 
 | Meal Detail Page | 
 | --- | 
